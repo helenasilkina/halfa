@@ -1,4 +1,1 @@
-halfa
-
-Start ember project
-=====
+Start ember project.

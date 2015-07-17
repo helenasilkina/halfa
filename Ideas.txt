@@ -1,1 +1,1 @@
-Write all questions and ideas
+Start default ember project.
